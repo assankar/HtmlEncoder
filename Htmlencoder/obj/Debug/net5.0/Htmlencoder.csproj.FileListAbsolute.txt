@@ -1,0 +1,16 @@
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\bin\Debug\net5.0\Htmlencoder.exe
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\bin\Debug\net5.0\Htmlencoder.deps.json
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\bin\Debug\net5.0\Htmlencoder.runtimeconfig.json
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\bin\Debug\net5.0\Htmlencoder.runtimeconfig.dev.json
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\bin\Debug\net5.0\Htmlencoder.dll
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\bin\Debug\net5.0\ref\Htmlencoder.dll
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\bin\Debug\net5.0\Htmlencoder.pdb
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.csproj.AssemblyReference.cache
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.AssemblyInfoInputs.cache
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.AssemblyInfo.cs
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.csproj.CoreCompileInputs.cache
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.dll
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\ref\Htmlencoder.dll
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.pdb
+C:\Users\acsankar\source\repos\Htmlencoder\Htmlencoder\obj\Debug\net5.0\Htmlencoder.genruntimeconfig.cache
